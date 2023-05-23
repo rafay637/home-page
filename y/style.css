@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+    text-decoration: none !important;
+}
+
+@media only screen and (min-width: 960px) {
+    body {
+        overflow-x: hidden;
+    }
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.oil {
+    width: 40px;
+    height: 40px;
+}
+
+.product:hover {
+    color: red;
+}
+
+.cream {
+    height: 300px;
+    width: 100%;
+}
+
+.main3 {
+    background-color: rgba(0, 0, 0, 0.1);
+}
